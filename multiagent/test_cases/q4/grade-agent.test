@@ -1,0 +1,15 @@
+class: "EvalAgentTest"
+
+agentName: "MinimaxAgent"
+agentArgs: "evalFn=better"
+layoutName: "smallClassic"
+maxTime: "120"
+numGames: "10"
+
+scoreThresholds: "500 1000"
+
+winsMinimum: "5"
+winsThresholds: "5 10"
+
+randomSeed: "0"
+ghosts: "[RandomGhost(1)]"

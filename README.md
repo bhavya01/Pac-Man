@@ -1,2 +1,2 @@
 # Pac-Man
-My solutions to Pacman project from UCB
+This repository contains my solutions to the Pac-Man projects from Intro to Artificial Intelligence class at UC Berkeley
